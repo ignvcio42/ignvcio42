@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Sobre mí en código
+## 🧠 Sobre mí
 
 ```js
 const ignacio = {
