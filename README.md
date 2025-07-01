@@ -23,18 +23,6 @@ const ignacio = {
 };
 ```
 
----
-
-## 🛠️ Tecnologías y herramientas
-
-- **Lenguajes:** JavaScript, TypeScript, HTML, CSS, Python, C++
-- **Frameworks:** React, Node.js, Express
-- **Bases de datos:** PostgreSQL, NoSQL
-- **Herramientas:** Git, Docker, Linux, PowerBI, Jupyter Notebook
-- **Otros:** Styled Components, Tailwind CSS, Microsoft Office
-
----
-
 ## 📫 Contacto
 
 - 📧 ignacio.guajardo_m@mail.udp.cl  
