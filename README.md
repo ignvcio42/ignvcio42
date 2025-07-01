@@ -1,17 +1,47 @@
-## ¡Hey 👋! I´m Ignacio 👨🏻‍💻
-<p align="center">
-  
-  <img src="https://github.com/ratasi/ratasi/blob/main/rafatarre.png" />
-</p>
+# 👋 Hola, soy Ignacio Guajardo
 
+🎓 Estudiante de Ingeniería Civil Informática y Telecomunicaciones en la Universidad Diego Portales  
+💻 Apasionado por el desarrollo web, la tecnología y los desafíos que requieren creatividad y análisis  
+🚀 Actualmente desarrollando proyectos full-stack como parte de mi título y portafolio personal  
 
+---
+
+## 🧠 Sobre mí en código
 
 ```js
-const ignacio = {    
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express"],
-        code: ["JavaScript", "Typescript", "React", "HTML", "CSS"],
-        tools: ["Node", "Styled-Components", "Tailwind CSS" ]
-    }
-}
+const ignacio = {
+  askMeAbout: ["App Development", "Web Development", "APIs", "Full Stack Dev", "Tech Stuff"],
+  technologies: {
+    frontEnd: [
+      "HTML", "CSS", "JavaScript", "TypeScript",
+      "React", "Tailwind CSS", "Styled-Components"
+    ],
+    backEnd: ["Node.js", "Express", "Python"],
+    tools: ["Git", "Docker", "Linux", "VSCode"]
+  },
+  currentlyLearning: ["Pruebas automatizadas"]
+};
+```
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes:** JavaScript, TypeScript, HTML, CSS, Python, C++
+- **Frameworks:** React, Node.js, Express
+- **Bases de datos:** PostgreSQL, NoSQL
+- **Herramientas:** Git, Docker, Linux, PowerBI, Jupyter Notebook
+- **Otros:** Styled Components, Tailwind CSS, Microsoft Office
+
+---
+
+## 📫 Contacto
+
+- 📧 ignacio.guajardo_m@mail.udp.cl  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ignacio-guajardo-43a3942a7)  
+- 💻 [GitHub](https://github.com/ignvcio42)  
+- 🌐 [Portafolio](https://portfolio-guajardo-dev.vercel.app/)
+
+---
+
+> _“Me comprometo con mi crecimiento personal y profesional participando en proyectos que expandan mis habilidades, siempre con pasión por la tecnología y la innovación.”_
