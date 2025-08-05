@@ -1,8 +1,8 @@
 # 👋 Hola, soy Ignacio Guajardo
 
-🎓 Ingeniero Civil en Informática y Telecomunicaciones. 
-💻 Apasionado por el desarrollo web, la tecnología y los desafíos que requieren creatividad y análisis.
-🚀 Actualmente en busca de nuevas oportunidades laborales.
+- 🎓 Ingeniero Civil en Informática y Telecomunicaciones. 
+- 💻 Apasionado por el desarrollo web, la tecnología y los desafíos que requieren creatividad y análisis.
+- 🚀 Actualmente en busca de nuevas oportunidades laborales.
 
 ---
 
