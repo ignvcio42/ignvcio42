@@ -1,8 +1,8 @@
 # 👋 Hola, soy Ignacio Guajardo
 
-🎓 Estudiante de Ingeniería Civil Informática y Telecomunicaciones en la Universidad Diego Portales  
-💻 Apasionado por el desarrollo web, la tecnología y los desafíos que requieren creatividad y análisis  
-🚀 Actualmente desarrollando proyectos full-stack como parte de mi título y portafolio personal  
+🎓 Ingeniero Civil en Informática y Telecomunicaciones. 
+💻 Apasionado por el desarrollo web, la tecnología y los desafíos que requieren creatividad y análisis.
+🚀 Actualmente en busca de nuevas oportunidades laborales.
 
 ---
 
